@@ -36,7 +36,7 @@ The goal of this project was to help Rockbuster answer business questions using 
   
  **<ins>Summary:<ins/>**
   
-  
+  The main countries that Rockbuster serves are <ins>India, China, United States, and Japan<ins/>. 
   
 
   
