@@ -29,6 +29,14 @@ The goal of this project was to help Rockbuster answer business questions using 
   
 - The country with the most revenue generated for Rockbuster is **India**
   
+  **<ins>Overview of Rockbuster Stealth LLC:<ins/>**
+  
+  ![Screenshot (159)](https://user-images.githubusercontent.com/93872864/142734890-9563c77e-f444-4ea2-bb13-c9390494f75c.png)
+
+  
+ **<ins>Summary:<ins/>**
+  
+  
   
 
   
