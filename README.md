@@ -13,6 +13,18 @@ The goal of this project was to help Rockbuster answer business questions using 
 
   
 ![Screenshot (153)](https://user-images.githubusercontent.com/93872864/142733407-ec9d2b53-7bbc-4cb8-a6e5-5d67d5202148.png)
+  
+  
+**<ins>Where Are Customers with a High Lifetime Value Based?:<ins/>**
+  
+ ![Screenshot (154)](https://user-images.githubusercontent.com/93872864/142733550-fa495a32-c10f-4271-ad40-7d06922a17f7.png)
+
+ - India has the largest number of Rockbuster customers (60).
+  
+  
+  **<ins>Sales Figures Across Regions:<ins/>**
+  
+  
 
   
   
