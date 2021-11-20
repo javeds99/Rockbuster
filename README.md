@@ -24,7 +24,7 @@ The goal of this project was to help Rockbuster answer business questions using 
   
   **<ins>Sales Figures Across Regions:<ins/>**
   
-  ![Screenshot (156)](https://user-images.githubusercontent.com/93872864/142734242-545dfe46-64dc-4bd1-8caf-9408a05456c7.png)
+  ![Screenshot (157)](https://user-images.githubusercontent.com/93872864/142734751-59affae3-4db6-4f57-ae28-700aae846e50.png)
 
   
 - The country with the most revenue generated for Rockbuster is **India**
