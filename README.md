@@ -37,6 +37,7 @@ The goal of this project was to help Rockbuster answer business questions using 
  **<ins>Summary:<ins/>**
   
   Rockbuster has customers acorss 109 countries, with access to 1,000 movies. The countries that generate the most revenue for Rockbuster are <ins>India, China, United States, and Japan<ins/>. The highest selling movie genres were sports, animation and sci-fi movies. 
+  
   **Rockbuster should focus on its main markets, and the movies that are the most popular among their customers.**
   
 
